@@ -1,2 +1,4 @@
-# simplebase-2023
-A base starter set of HTML, CSS, and JS for a simple static site.
+# simplebase
+A simple starter HTML, CSS, and JS for a modern static site.
+
+[View Demo](https://johndoenma.github.io/personalframework)
